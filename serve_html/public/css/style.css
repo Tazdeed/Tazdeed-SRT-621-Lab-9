@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.picture {
+    width: 20%;
+    float: left;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 10%;
+    padding: 10px;
+
+}
+
+.picture img {
+    height: 100%;
+    width: 100%;
+}
